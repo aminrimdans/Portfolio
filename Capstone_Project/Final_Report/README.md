@@ -3,7 +3,7 @@
 ## By Daniel Rimdans and Moulya Naveena Choday
 
 ###### Link to the Presentation 
-[Presentation](https://github.com/NaveenaChodayy/TEAM_E_Data606/blob/main/PPT_Presentation/Capstone%20Presentation.pdf)
+[Presentation](https://github.com/aminrimdans/Naveena_Daniel_Data606/blob/main/PPT_Presentation/Capstone%20Presentation.pdf)
 
 ###### Link to the video
 [Video](https://www.youtube.com/watch?v=5kZn5iI_B6A)
